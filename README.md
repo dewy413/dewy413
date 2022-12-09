@@ -12,8 +12,8 @@ I am majoring in Computer Science and I will graduate in Spring 2024. In my time
 </p>
 
 # Current Projects
-- [ ] https://github.com/MarloBarlo/Super-cool-game-1/
-- [ ] https://github.com/dewy413/Python-Keyword-Webpage-Program
+- https://github.com/MarloBarlo/Super-cool-game-1/
+- https://github.com/dewy413/Python-Keyword-Webpage-Program
 
 
 
