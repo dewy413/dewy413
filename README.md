@@ -23,6 +23,6 @@ I am majoring in Computer Science and I will graduate in Spring 2024. In my time
 
 
 # My Links
-- [Twitter] (https://twitter.com/Dewy413)
-- [LinkedIn] (https://www.linkedin.com/in/jordan-deuley-507848255/)
+- [Twitter](https://twitter.com/Dewy413)
+- [LinkedIn](https://www.linkedin.com/in/jordan-deuley-507848255/)
 
