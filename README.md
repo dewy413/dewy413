@@ -19,8 +19,8 @@ I am majoring in Computer Science and I will graduate in Spring 2024. In my time
 
 # Resources
 
-[C++](https://github.com/dewy413/CPlusPlus)
-[Codewars](https://github.com/dewy413/Codewars)
+- [C++](https://github.com/dewy413/CPlusPlus)
+- [Codewars](https://github.com/dewy413/Codewars)
 
 
 # My Links
