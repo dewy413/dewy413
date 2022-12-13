@@ -11,9 +11,19 @@ I am majoring in Computer Science and I will graduate in Spring 2024. In my time
   <img src="https://user-images.githubusercontent.com/114099341/206761743-3f2c0dc1-6ecb-46a7-b3d4-24d2b8c1aedf.png" alt="TKE Crest"/>
 </p>
 
+# Language Expertise
+- Python (Scripting and Web Scraping)
+- C++ (Data Structures, Algorithms, Game Development)
+
 # Current Projects
 - https://github.com/MarloBarlo/Super-cool-game-1/
 - https://github.com/dewy413/Python-Keyword-Webpage-Program
+
+# Current Skills I am Learning
+- Basic Hacking
+- Web Development 
+- Game Development 
+
 
 
 
