@@ -13,7 +13,7 @@ I am majoring in Computer Science and I will graduate in Spring 2024. In my time
 
 # Language Expertise
 - Python (Scripting and Web Scraping)
-- C++ (Data Structures, Algorithms, Game Development)
+- C++ (Data Structures, Algorithms, and Game Development)
 
 # Current Projects
 - https://github.com/MarloBarlo/Super-cool-game-1/
