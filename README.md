@@ -18,6 +18,10 @@ I am majoring in Computer Science and I will graduate in Spring 2024. In my time
 # Current Projects
 - https://github.com/MarloBarlo/Super-cool-game-1/
 - https://github.com/dewy413/Python-Keyword-Webpage-Program
+- Godot Game (Don't have it on Github yet)
+
+# Project To-Do List
+- Website
 
 # Current Skills I am Learning
 - Basic Hacking
