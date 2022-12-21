@@ -33,7 +33,7 @@ I am majoring in Computer Science and I will graduate in Spring 2024. In my time
 
 # Resources
 
-- [Programing Bible](https://github.com/dewy413/CPlusPlus)
+- [Programming Bible](https://github.com/dewy413/CPlusPlus)
 
 # My Links
 - [Twitter](https://twitter.com/Dewy413)
