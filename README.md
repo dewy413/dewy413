@@ -24,7 +24,8 @@ I am majoring in Computer Science and I will graduate in Spring 2024. In my time
 - Website
 
 # Current Skills I am Learning
-- Basic Hacking
+- Improving C++
+- Improving Python
 - Web Development 
 - Game Development 
 
