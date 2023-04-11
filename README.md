@@ -12,22 +12,21 @@ I am majoring in Computer Science and I will graduate in Spring 2024. In my time
 </p>
 
 # Language Expertise
-- Python (Scripting and Web Scraping)
-- C++ (Data Structures, Algorithms, and Game Development)
+- Python (Scripting, Web Scraping, Software Development)
+- C++ (Data Structures, Algorithms, Software Development, and Game Development)
+
+# Completed Projects 
+- https://github.com/dewy413/Python-Keyword-Webpage-Program
 
 # Current Projects
-- https://github.com/MarloBarlo/Super-cool-game-1/
-- https://github.com/dewy413/Python-Keyword-Webpage-Program
-- Godot Game (Don't have it on Github yet)
+- N/A 
 
 # Project To-Do List
 - Website
 
 # Current Skills I am Learning
-- Improving C++
-- Improving Python
-- Web Development 
-- Game Development 
+- Threading
+- Mathematical Skills 
 
 
 
