@@ -16,13 +16,11 @@ I am majoring in Computer Science and I will graduate in Spring 2024. In my time
 - C++ (Data Structures, Algorithms, Software Development, and Game Development)
 
 # Completed Projects 
-- https://github.com/dewy413/Python-Keyword-Webpage-Program
+- [Scrappy](https://github.com/dewy413/Python-Keyword-Webpage-Program)
 
 # Current Projects
 - N/A 
 
-# Project To-Do List
-- Website
 
 # Current Skills I am Learning
 - Threading
