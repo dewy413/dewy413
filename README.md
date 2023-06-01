@@ -23,7 +23,7 @@ I am majoring in Computer Science and I will graduate in Spring 2024. In my time
 
 
 # Current Skills I am Learning
-- Threading
+- SQL
 - Mathematical Skills 
 
 
