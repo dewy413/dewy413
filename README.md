@@ -34,6 +34,6 @@ I am majoring in Computer Science and I will graduate in Fall 2023. In my time h
 - [Programming Bible](https://github.com/dewy413/CPlusPlus)
 
 # My Links
-- [Twitter](https://twitter.com/Dewy413)
+- [Twitter](https://twitter.com/JordanDeuley)
 - [LinkedIn](https://www.linkedin.com/in/jordan-deuley-507848255/)
 
